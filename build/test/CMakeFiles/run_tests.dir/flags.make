@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/quaant/source/repos/maps/test/../include -isystem /home/quaant/source/repos/maps/googletest/googletest/include -isystem /home/quaant/source/repos/maps/googletest/googletest
+CXX_INCLUDES = -I/home/quaant/source/repos/maps/test/../include -I/home/quaant/source/repos/maps/test/../googletest/googletest/include -I/home/quaant/source/repos/maps/test/../googletest/googlemock/include -isystem /home/quaant/source/repos/maps/googletest/googletest/include -isystem /home/quaant/source/repos/maps/googletest/googletest
 
 CXX_FLAGS = 
 

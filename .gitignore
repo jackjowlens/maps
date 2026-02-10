@@ -39,3 +39,4 @@
 
 # debug information files
 *.dwo
+c_cpp_properties.json
