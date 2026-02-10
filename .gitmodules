@@ -1,3 +1,6 @@
 [submodule "maps"]
 	path = maps
 	url = https://github.com/jackjowlens/maps
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
